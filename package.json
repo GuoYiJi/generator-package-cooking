@@ -1,6 +1,6 @@
 {
   "name": "generator-package-cooking",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "cooking generator package",
   "main": "index.js",
   "scripts": {
