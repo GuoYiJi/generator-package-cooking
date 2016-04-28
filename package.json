@@ -1,0 +1,30 @@
+{
+  "name": "generator-package-cooking",
+  "version": "0.0.0",
+  "description": "cooking generator package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookingjs/generator-package-cooking.git"
+  },
+  "keywords": [
+    "cooking",
+    "generator"
+  ],
+  "author": "qingwei-li <qingwei.li@ele.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cookingjs/generator-package-cooking/issues"
+  },
+  "homepage": "https://github.com/cookingjs/generator-package-cooking#readme",
+  "dependencies": {
+    "gulp": "~3.8.6",
+    "gulp-template": "~0.1.1",
+    "gulp-install": "~0.2.0",
+    "gulp-conflict": "~0.2.0",
+    "inquirer": "~0.5.1"
+  }
+}
